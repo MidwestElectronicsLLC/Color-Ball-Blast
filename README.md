@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Color Ball Blast Privacy Policy
+Shape Shooter Privacy Policy
 
-This is the privacy policy for Color Ball Blast by Woosh Apps.
+This is the privacy policy for Shape Shooter by Woosh Apps.
 
 We at Woosh Apps value and respect your privacy. This app does NOT collect any data from it's users.
 
